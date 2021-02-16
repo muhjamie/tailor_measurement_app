@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83920854973",
+    "project_id": "daas-tailor-app",
+    "storage_bucket": "daas-tailor-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83920854973:android:7015dbc5b6e5a8f5ba7cd4",
+        "android_client_info": {
+          "package_name": "com.ksg.daas.daas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83920854973-tefic6ejgk9k6eqptdtpj7dsn475h09c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHLjzxgJESLxy5-S72wYxC6Qe_agQtqAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83920854973-tefic6ejgk9k6eqptdtpj7dsn475h09c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
